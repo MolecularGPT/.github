@@ -25,10 +25,11 @@
  <img src="https://koronaebola.github.io/5.png" />
 </a>
 
+<img src="https://koronaebola.github.io/chem.png" />
+
 <a href="https://nanome.ai/">
  <img src="https://koronaebola.github.io/3.png" />
 </a>
-<img src="https://koronaebola.github.io/chem.png" />
 
 <a href="https://huggingface.co/">
 <img src="https://koronaebola.github.io/hf.jpg" />
