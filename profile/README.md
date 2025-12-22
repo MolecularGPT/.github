@@ -1,6 +1,10 @@
 # The Future of Molecular Design And Synthetic Biology Workflows
 # Using Distributed Architecture And 3D Engines
 
+<a href="https://huggingface.co/">
+<img src="https://koronaebola.github.io/hf.jpg" />
+</a>
+
 <img src="https://koronaebola.github.io/chem.png" />
 
 <a href="https://www.dnascript.com">
@@ -29,10 +33,6 @@
 
 <a href="https://nanome.ai/">
  <img src="https://koronaebola.github.io/3.png" />
-</a>
-
-<a href="https://huggingface.co/">
-<img src="https://koronaebola.github.io/hf.jpg" />
 </a>
 
 <a href="https://youtu.be/Nlee3cffZJw">
