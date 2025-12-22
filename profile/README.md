@@ -5,6 +5,8 @@
  <img src="https://koronaebola.github.io/MolecularGPT/syntaxDNA1.jpg" />
 </a>
 
+<img src="https://koronaebola.github.io/chem.png" />
+
 <a href="https://youtu.be/QxOy9QLdBRA">
  <img src="https://koronaebola.github.io/MolecularGPT/syntaxDNA.jpg" />
 </a>
@@ -32,8 +34,6 @@
 <a href="https://huggingface.co/">
 <img src="https://koronaebola.github.io/hf.jpg" />
 </a>
-
-<img src="https://koronaebola.github.io/chem.png" />
 
 <a href="https://youtu.be/Nlee3cffZJw">
 - Fine spraying of viruses and vaccination
