@@ -1,11 +1,11 @@
 # The Future of Molecular Design And Synthetic Biology Workflows
 # Using Distributed Architecture And 3D Engines
 
+<img src="https://koronaebola.github.io/chem.png" />
+
 <a href="https://www.dnascript.com">
  <img src="https://koronaebola.github.io/MolecularGPT/syntaxDNA1.jpg" />
 </a>
-
-<img src="https://koronaebola.github.io/chem.png" />
 
 <a href="https://youtu.be/QxOy9QLdBRA">
  <img src="https://koronaebola.github.io/MolecularGPT/syntaxDNA.jpg" />
