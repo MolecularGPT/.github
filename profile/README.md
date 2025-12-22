@@ -1,7 +1,7 @@
 # The Future of Molecular Design And Synthetic Biology Workflows
 # Using Distributed Architecture And 3D Engines
 
-<a href="https://huggingface.co/">
+<a href="https://github.com/apeterswu/Awesome-Bio-Foundation-Models">
 <img src="https://koronaebola.github.io/hf.jpg" />
 </a>
 
