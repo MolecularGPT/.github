@@ -1,4 +1,4 @@
-[Generative Biology™](https://generatebiomedicines.com/)<br>
+[GENERATIVE BIOLOGY™](https://generatebiomedicines.com/)<br>
 [INSILICO](https://insilico.com/)<br>
 [NEUROSNAP](https://neurosnap.ai/)<br>
 
