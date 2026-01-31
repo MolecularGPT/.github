@@ -1,11 +1,9 @@
-
 [Generative Biology™](https://generatebiomedicines.com/)<br>
 [INSILICO](https://insilico.com/)<br>
 [NEUROSNAP](https://neurosnap.ai/)<br>
 
-
-
 # The Future of Molecular Design And Synthetic Biology Workflows
+# Leveraging Biomolecule and Natural Language through Multi-Modal Learning
 # Using Distributed Architecture And 3D Engines
 
 <a href="https://github.com/apeterswu/Awesome-Bio-Foundation-Models">
